@@ -5,3 +5,4 @@
 * punkt1
 * punkt2
 * punkt3
+* punkt4
